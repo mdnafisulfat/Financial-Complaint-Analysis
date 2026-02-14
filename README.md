@@ -100,15 +100,10 @@ Skills demonstrated: Dashboard design, slicer integration, interactive filtering
  ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20191856.png?raw=true
 )
 
-
-
  ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192048.png?raw=true
 )
 
  ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192102.png?raw=true
-)
-
- ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20191856.png?raw=true
 )
 
  ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192111.png?raw=true
@@ -119,8 +114,6 @@ Skills demonstrated: Dashboard design, slicer integration, interactive filtering
 
  ![Image Alt](https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192128.png?raw=true
 )
-
-
 
 
 
