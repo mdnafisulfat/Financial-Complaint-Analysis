@@ -24,7 +24,7 @@ All of this is achieved using Excel alone, without SQL, Python, or Power BI.
 
 ### 1️⃣ Raw Data
 
-The first sheet contains the original dataset to ensure data integrity. No formulas or transformations were applied.  
+The first sheet contains the original dataset to ensure data integrity. No formulas or transformations were applied. Dataset Link: https://mavenanalytics.io/data-playground/financial-consumer-complaints 
 
 ### 2️⃣ Cleaned & Reference Data
 
