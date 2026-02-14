@@ -1,4 +1,4 @@
-# Financial Complaint Analysis
+<img width="1371" height="585" alt="image" src="https://github.com/user-attachments/assets/87ac651a-316e-4135-a549-f9af00f4c698" /># Financial Complaint Analysis
 
 This project performs a complete analysis of financial complaints using **Microsoft Excel only**. The main goal is to identify which financial products are most problematic, where responses are slow, how frequent fraud complaints are, and how the company is performing overall.  
 
@@ -97,6 +97,15 @@ An executive-ready dashboard summarizes key insights. The top section displays K
 The dashboard provides immediate insights into complaint trends, fraud risk, slow-performing products, and operational efficiency.  
 
 Skills demonstrated: Dashboard design, slicer integration, interactive filtering, business storytelling.
+
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20191856.png?raw=true
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192048.png?raw=true
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192102.png?raw=true
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192111.png?raw=true
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192119.png?raw=true
+https://github.com/mdnafisulfat/Financial-Complaint-Analysis/blob/main/Screenshot%202026-02-14%20192128.png?raw=true
+
+
 
 ---
 
